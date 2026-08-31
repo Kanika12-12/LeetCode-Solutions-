@@ -24,6 +24,7 @@ My daily LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 ## Hash Table
@@ -42,4 +43,12 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
