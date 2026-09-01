@@ -11,10 +11,12 @@ My daily LeetCode solutions.
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0051-n-queens) |
+| [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
 | ------- |
@@ -33,6 +35,7 @@ My daily LeetCode solutions.
 | [0091-decode-ways](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,8 +69,10 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
