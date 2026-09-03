@@ -11,6 +11,7 @@ My daily LeetCode solutions.
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -77,4 +78,20 @@ My daily LeetCode solutions.
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
