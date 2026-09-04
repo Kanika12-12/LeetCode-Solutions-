@@ -30,6 +30,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0072-edit-distance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
@@ -86,6 +87,7 @@ My daily LeetCode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 ## Greedy
