@@ -6,6 +6,7 @@ My daily LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
@@ -45,6 +46,7 @@ My daily LeetCode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 ## Trie
 |  |
