@@ -7,6 +7,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
@@ -89,6 +90,7 @@ My daily LeetCode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
