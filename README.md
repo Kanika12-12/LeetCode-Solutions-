@@ -119,9 +119,19 @@ My daily LeetCode solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
