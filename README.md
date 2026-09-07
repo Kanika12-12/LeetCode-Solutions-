@@ -120,11 +120,13 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0100-same-tree) |
+| [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 ## Tree
 |  |
@@ -134,4 +136,12 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0100-same-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
