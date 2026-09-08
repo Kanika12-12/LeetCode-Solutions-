@@ -1,8 +1,7 @@
 class Solution {
     public Node cloneGraph(Node node) {
         if(node == null){
-            return node;
-        }
+            return node; }
         HashMap<Node, Node> visited = new HashMap<>();
         Queue<Node> q = new LinkedList<>();
         visited.put(node, new Node(node.val,new ArrayList<>()));
@@ -12,11 +11,8 @@ class Solution {
             for(Node n:t.neighbors){
                 if(!visited.containsKey(n)){
                     visited.put(n,new Node(n.val,new ArrayList<>()));
-                    q.add(n);
-
-                }
+                    q.add(n); }
                 visited.get(t).neighbors.add(visited.get(n));
-
             }
         }
         return visited.get(node);
