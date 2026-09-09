@@ -34,6 +34,7 @@ My daily LeetCode solutions.
 | [0072-edit-distance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0680-valid-palindrome-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
@@ -52,6 +53,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 ## Trie
@@ -130,6 +132,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0100-same-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
@@ -152,4 +155,8 @@ My daily LeetCode solutions.
 | ------- |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
