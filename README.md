@@ -17,6 +17,7 @@ My daily LeetCode solutions.
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -50,6 +51,7 @@ My daily LeetCode solutions.
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
+| [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Knapsack Problem
@@ -136,6 +139,7 @@ My daily LeetCode solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
+| [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
