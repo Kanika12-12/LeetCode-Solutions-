@@ -21,6 +21,7 @@ My daily LeetCode solutions.
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
@@ -61,6 +62,7 @@ My daily LeetCode solutions.
 | [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
+| [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 ## Trie
 |  |
 | ------- |
@@ -181,6 +183,7 @@ My daily LeetCode solutions.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bidirectional Search
