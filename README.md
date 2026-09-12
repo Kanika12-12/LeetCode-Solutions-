@@ -14,6 +14,7 @@ My daily LeetCode solutions.
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
@@ -49,6 +50,7 @@ My daily LeetCode solutions.
 | [0091-decode-ways](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
@@ -67,6 +69,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -84,6 +87,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -131,6 +135,7 @@ My daily LeetCode solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
@@ -143,6 +148,7 @@ My daily LeetCode solutions.
 | [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
@@ -169,6 +175,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -180,8 +187,10 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
