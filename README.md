@@ -20,6 +20,7 @@ My daily LeetCode solutions.
 | [0463-island-perimeter](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
+| [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
@@ -63,6 +64,7 @@ My daily LeetCode solutions.
 | [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
+| [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 ## Trie
 |  |
@@ -143,6 +145,7 @@ My daily LeetCode solutions.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -159,6 +162,7 @@ My daily LeetCode solutions.
 | [0463-island-perimeter](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -168,6 +172,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0100-same-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 ## Binary Tree
 |  |
 | ------- |
