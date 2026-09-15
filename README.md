@@ -26,6 +26,7 @@ My daily LeetCode solutions.
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Backtracking
 |  |
 | ------- |
