@@ -16,6 +16,7 @@ My daily LeetCode solutions.
 | [0238-product-of-array-except-self](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0463-island-perimeter) |
@@ -126,6 +127,7 @@ My daily LeetCode solutions.
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0680-valid-palindrome-ii) |
@@ -225,4 +227,8 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
