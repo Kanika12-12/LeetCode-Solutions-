@@ -7,6 +7,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0051-n-queens](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0063-unique-paths-ii) |
@@ -121,6 +122,7 @@ My daily LeetCode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
@@ -134,6 +136,7 @@ My daily LeetCode solutions.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0605-can-place-flowers) |
