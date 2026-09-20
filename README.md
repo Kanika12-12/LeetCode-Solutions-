@@ -31,6 +31,7 @@ My daily LeetCode solutions.
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -161,6 +162,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -244,6 +246,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -252,5 +255,6 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
