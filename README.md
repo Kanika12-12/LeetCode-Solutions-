@@ -33,6 +33,7 @@ My daily LeetCode solutions.
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Backtracking
 |  |
@@ -70,6 +71,7 @@ My daily LeetCode solutions.
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,4 +252,5 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0643-maximum-average-subarray-i) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
