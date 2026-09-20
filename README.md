@@ -57,6 +57,7 @@ My daily LeetCode solutions.
 | [0392-is-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0680-valid-palindrome-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,5 +257,6 @@ My daily LeetCode solutions.
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
