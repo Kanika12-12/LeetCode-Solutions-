@@ -25,6 +25,7 @@ My daily LeetCode solutions.
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0643-maximum-average-subarray-i) |
 | [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
@@ -245,4 +246,8 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0334-increasing-triplet-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
