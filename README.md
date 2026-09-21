@@ -27,6 +27,7 @@ My daily LeetCode solutions.
 | [0605-can-place-flowers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0643-maximum-average-subarray-i) |
 | [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
+| [0724-find-pivot-index](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
@@ -247,6 +248,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 ## Longest Increasing Subsequence
 |  |
