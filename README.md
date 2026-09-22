@@ -38,6 +38,7 @@ My daily LeetCode solutions.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,6 +87,7 @@ My daily LeetCode solutions.
 | [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
