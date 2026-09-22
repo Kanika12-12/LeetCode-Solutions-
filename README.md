@@ -267,4 +267,8 @@ My daily LeetCode solutions.
 | [1004-max-consecutive-ones-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
