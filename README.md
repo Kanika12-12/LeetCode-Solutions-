@@ -62,6 +62,7 @@ My daily LeetCode solutions.
 | [0443-string-compression](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1657-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ My daily LeetCode solutions.
 | [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Trie
@@ -160,6 +162,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Quicksort
 |  |
@@ -275,4 +278,8 @@ My daily LeetCode solutions.
 | [1148-article-views-i](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
