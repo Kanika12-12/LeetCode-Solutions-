@@ -40,6 +40,7 @@ My daily LeetCode solutions.
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2352-equal-row-and-column-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,6 +93,7 @@ My daily LeetCode solutions.
 | [1657-determine-if-two-strings-are-close](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2352-equal-row-and-column-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -124,6 +126,7 @@ My daily LeetCode solutions.
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2352-equal-row-and-column-pairs) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -282,4 +285,8 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1657-determine-if-two-strings-are-close) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
