@@ -60,6 +60,7 @@ My daily LeetCode solutions.
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0680-valid-palindrome-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -306,5 +307,10 @@ My daily LeetCode solutions.
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
