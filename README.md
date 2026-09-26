@@ -29,6 +29,7 @@ My daily LeetCode solutions.
 | [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0724-find-pivot-index](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
@@ -304,12 +305,14 @@ My daily LeetCode solutions.
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
