@@ -83,6 +83,7 @@ My daily LeetCode solutions.
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -200,6 +201,7 @@ My daily LeetCode solutions.
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -232,6 +234,7 @@ My daily LeetCode solutions.
 | [0437-path-sum-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0437-path-sum-iii) |
 | [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0872-leaf-similar-trees](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -241,6 +244,7 @@ My daily LeetCode solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
@@ -367,4 +371,8 @@ My daily LeetCode solutions.
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
