@@ -203,6 +203,7 @@ My daily LeetCode solutions.
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -226,6 +227,7 @@ My daily LeetCode solutions.
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
@@ -239,6 +241,7 @@ My daily LeetCode solutions.
 | [0437-path-sum-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0437-path-sum-iii) |
 | [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0872-leaf-similar-trees](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -251,6 +254,7 @@ My daily LeetCode solutions.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0872-leaf-similar-trees) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
