@@ -19,6 +19,7 @@ My daily LeetCode solutions.
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0463-island-perimeter) |
@@ -62,6 +63,7 @@ My daily LeetCode solutions.
 | [0151-reverse-words-in-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0680-valid-palindrome-ii) |
@@ -195,6 +197,7 @@ My daily LeetCode solutions.
 | [0210-course-schedule-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
@@ -220,6 +223,7 @@ My daily LeetCode solutions.
 | [0207-course-schedule](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
@@ -266,6 +270,7 @@ My daily LeetCode solutions.
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
@@ -276,6 +281,7 @@ My daily LeetCode solutions.
 | [0207-course-schedule](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
@@ -411,4 +417,16 @@ My daily LeetCode solutions.
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0700-search-in-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
