@@ -206,6 +206,7 @@ My daily LeetCode solutions.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -229,6 +230,7 @@ My daily LeetCode solutions.
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Tree
 |  |
@@ -277,6 +279,7 @@ My daily LeetCode solutions.
 | [0547-number-of-provinces](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1791-find-center-of-star-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bidirectional Search
