@@ -33,6 +33,7 @@ My daily LeetCode solutions.
 | [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -133,6 +134,7 @@ My daily LeetCode solutions.
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
+| [0994-rotting-oranges](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2352-equal-row-and-column-pairs) |
@@ -233,6 +235,7 @@ My daily LeetCode solutions.
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1448-count-good-nodes-in-binary-tree) |
