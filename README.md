@@ -46,6 +46,7 @@ My daily LeetCode solutions.
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2542-maximum-subsequence-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,6 +176,7 @@ My daily LeetCode solutions.
 | [0605-can-place-flowers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0680-valid-palindrome-ii) |
+| [2542-maximum-subsequence-score](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2542-maximum-subsequence-score) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +185,7 @@ My daily LeetCode solutions.
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2542-maximum-subsequence-score) |
 ## Quicksort
 |  |
 | ------- |
@@ -453,6 +456,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
