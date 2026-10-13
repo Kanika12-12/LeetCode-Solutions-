@@ -46,6 +46,7 @@ My daily LeetCode solutions.
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2542-maximum-subsequence-score) |
 ## Backtracking
 |  |
@@ -167,6 +168,7 @@ My daily LeetCode solutions.
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
@@ -389,6 +391,7 @@ My daily LeetCode solutions.
 | [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
@@ -456,6 +459,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
