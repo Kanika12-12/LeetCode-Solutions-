@@ -13,6 +13,7 @@ My daily LeetCode solutions.
 | [0063-unique-paths-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
@@ -198,6 +199,7 @@ My daily LeetCode solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1004-max-consecutive-ones-iii) |
