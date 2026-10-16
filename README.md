@@ -16,6 +16,7 @@ My daily LeetCode solutions.
 | [0162-find-peak-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
@@ -56,6 +57,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0051-n-queens) |
+| [0216-combination-sum-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 ## Algorithm X
 |  |
