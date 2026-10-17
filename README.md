@@ -15,6 +15,7 @@ My daily LeetCode solutions.
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +93,7 @@ My daily LeetCode solutions.
 | [0072-edit-distance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0392-is-subsequence) |
