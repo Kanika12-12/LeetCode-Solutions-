@@ -34,6 +34,7 @@ My daily LeetCode solutions.
 | [0724-find-pivot-index](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
@@ -97,6 +98,7 @@ My daily LeetCode solutions.
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0746-min-cost-climbing-stairs) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
