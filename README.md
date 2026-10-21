@@ -77,6 +77,7 @@ My daily LeetCode solutions.
 | [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
@@ -114,6 +115,7 @@ My daily LeetCode solutions.
 | [0127-word-ladder](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 | [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1207-unique-number-of-occurrences) |
@@ -126,6 +128,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -434,6 +437,7 @@ My daily LeetCode solutions.
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 | [0933-number-of-recent-calls](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
