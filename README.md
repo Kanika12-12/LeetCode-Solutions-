@@ -99,6 +99,7 @@ My daily LeetCode solutions.
 | [0198-house-robber](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
@@ -510,4 +511,5 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
