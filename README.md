@@ -26,6 +26,7 @@ My daily LeetCode solutions.
 | [0334-increasing-triplet-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
@@ -104,6 +105,7 @@ My daily LeetCode solutions.
 | [0338-counting-bits](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -197,6 +199,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0649-dota2-senate) |
@@ -207,6 +210,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1268-search-suggestions-system) |
