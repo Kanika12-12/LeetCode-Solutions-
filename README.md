@@ -39,6 +39,7 @@ My daily LeetCode solutions.
 | [0724-find-pivot-index](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0875-koko-eating-bananas) |
@@ -442,6 +443,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0394-decode-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -526,4 +528,8 @@ My daily LeetCode solutions.
 | [0136-single-number](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
