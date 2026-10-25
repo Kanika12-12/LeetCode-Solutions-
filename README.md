@@ -444,6 +444,7 @@ My daily LeetCode solutions.
 | [0394-decode-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -453,6 +454,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
+| [0901-online-stock-span](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
@@ -463,6 +465,7 @@ My daily LeetCode solutions.
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
@@ -532,4 +535,5 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
