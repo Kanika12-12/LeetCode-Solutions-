@@ -98,6 +98,7 @@ My daily LeetCode solutions.
 | [0062-unique-paths](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
@@ -140,6 +141,7 @@ My daily LeetCode solutions.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Brute-Force Search
@@ -150,6 +152,7 @@ My daily LeetCode solutions.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
