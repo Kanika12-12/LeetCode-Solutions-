@@ -40,6 +40,7 @@ My daily LeetCode solutions.
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0875-koko-eating-bananas) |
@@ -113,6 +114,7 @@ My daily LeetCode solutions.
 | [0509-fibonacci-number](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -127,6 +129,7 @@ My daily LeetCode solutions.
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0208-implement-trie-prefix-tree) |
 | [0690-employee-importance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0690-employee-importance) |
+| [0740-delete-and-earn](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0740-delete-and-earn) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1657-determine-if-two-strings-are-close) |
