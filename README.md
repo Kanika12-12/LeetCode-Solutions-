@@ -20,6 +20,7 @@ My daily LeetCode solutions.
 | [0198-house-robber](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
@@ -107,6 +108,7 @@ My daily LeetCode solutions.
 | [0120-triangle](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0338-counting-bits) |
@@ -175,6 +177,7 @@ My daily LeetCode solutions.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
+| [0221-maximal-square](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
