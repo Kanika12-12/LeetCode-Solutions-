@@ -45,6 +45,7 @@ My daily LeetCode solutions.
 | [0746-min-cost-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0997-find-the-town-judge) |
@@ -118,6 +119,7 @@ My daily LeetCode solutions.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -178,6 +180,7 @@ My daily LeetCode solutions.
 | [0542-01-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/1926-nearest-exit-from-entrance-in-maze) |
