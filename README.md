@@ -78,6 +78,7 @@ My daily LeetCode solutions.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0072-edit-distance](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0091-decode-ways) |
@@ -99,6 +100,7 @@ My daily LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0064-minimum-path-sum) |
@@ -201,6 +203,7 @@ My daily LeetCode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0125-valid-palindrome) |
@@ -557,4 +560,8 @@ My daily LeetCode solutions.
 | ------- |
 | [0739-daily-temperatures](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0901-online-stock-span) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kanika12-12/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
